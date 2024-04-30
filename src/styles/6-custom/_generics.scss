@@ -1,0 +1,15 @@
+div.scrollable-component {
+    width: 100%;
+    margin: auto;
+    overflow-x: scroll;
+    overflow-y: scroll;
+    max-height: 500px;
+    height: 400px
+  }
+
+  .formValid {
+    input.error {
+      border-color: #faa;
+      background-color: #ffeded;
+    }
+  }
